@@ -3,7 +3,7 @@
 ¡Bienvenido a la Comunidad AGI! Nuestro propósito es crear un espacio donde los entusiastas de la tecnología en Latinoamérica puedan conectar, dialogar y colaborar en proyectos de código abierto relacionados con la inteligencia artificial general.
 
 ## Sobre nosotros
-Somos un grupo comprometido de desarrolladores, investigadores y amantes de la tecnología que comparten un interés en el avance de la inteligencia artificial general. Creemos en fomentar la colaboración y el intercambio de conocimientos para impulsar este campo.
+Somos un grupo comprometido de desarrolladores y amantes de la tecnología que comparten un interés en el avance de la inteligencia artificial general. Creemos en fomentar la colaboración y el intercambio de conocimientos para impulsar este campo.
 
 ## ¿Por qué unirte?
 - **Conexión**: Conecta con otros profesionales y entusiastas en Latinoamérica.
